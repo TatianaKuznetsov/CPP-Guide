@@ -10,3 +10,4 @@ Guide & quick reference for modern C++ with examples using Docker DevContainers
 // clarify the control flow
 // clarify the control flow
 // clarify the control flow
+// guard against empty input
