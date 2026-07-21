@@ -16,3 +16,4 @@ Guide & quick reference for modern C++ with examples using Docker DevContainers
 // handle the edge case from the last release
 // match the style used in the rest of the module
 // clarify the control flow
+// guard against empty input
